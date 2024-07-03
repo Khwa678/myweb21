@@ -1,0 +1,155 @@
+.name{
+    background-color: #fff;
+    width:100%;
+    height:3rem;
+
+
+}
+.name img {
+    width:54px;
+    height:44px;
+   display: flex;
+
+}
+
+.name ul li a{
+    text-decoration: none;
+    display: flex;
+    list-style: none;
+    color:black;
+margin-top: 0;margin-left: 44px;
+
+
+}
+.name ul{
+    display: flex;
+
+color:black;
+cursor: pointer;
+    gap:12rem; list-style: none;
+
+
+}
+
+.mid img {
+    margin-top: 45px;
+    display: block;
+            width: 100%;
+            height: auto;
+            opacity:0.8;
+        }
+.mid  h1 ,.mid h3,.mid  button {
+
+ 
+            top: 50%; position: absolute;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-size: 24px;
+            background-color: rgba(0, 0, 0, 0.5); /* Optional: add a background for better readability */
+            padding: 10px;
+            z-index: 2;
+            gap:23px;
+
+}
+
+.mid button {
+    gap:34px;
+    margin-top: 15rem;
+position: absolute;
+cursor: pointer;
+}
+.mid h1{
+
+    margin-top: -55px;
+    
+}
+.btn .r{
+
+    margin-top: 34px;
+    margin-left:52px;position: absolute;
+
+}
+.third {
+    background-color: pink ;
+    width:100%;
+    display: flex;
+    height:8rem;
+gap:23px;
+    
+}
+
+
+.third .img1 i{
+ font-size: 50px;
+ gap:23px;
+margin-left: 34px;
+
+    cursor: pointer;
+
+}
+.third .img1 i:hover{
+    color:rgb(22, 9, 209);
+
+}
+
+.third .img1 {
+display: flex; margin-left: 23px;
+gap:34px;
+
+}
+.fourth{
+    background-color: rgb(17, 17, 17);
+    color:white;
+    display: flex;
+margin-top: 4rem;
+}
+.four button  {
+width:100px;
+height:2rem;
+cursor: pointer;
+border-radius: 4rem;
+}
+
+.four button:hover{
+    background-color: rgb(239, 35, 24);
+}
+.four h1:hover{
+    color: #961313;
+    cursor: pointer;
+}
+
+.fifth{
+    background-color: grey;
+    color:white;
+   
+
+}
+.five1 img {
+    width:255px;
+    height:256px;
+
+}
+.five1{
+    margin-left: 34px;
+    
+}
+.logo{
+    display: flex;
+    margin-left: 34px;
+    
+   
+}
+.logos i{
+    font-size: 50px;
+    cursor: pointer;
+
+}
+.logos p {
+    margin-left: 10px;
+}
+.logos i:hover{
+    cursor: pointer;
+    color: rgb(224, 25, 58) ;
+}
+
